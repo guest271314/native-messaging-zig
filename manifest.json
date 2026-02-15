@@ -1,0 +1,14 @@
+{
+  "name": "nm-zig",
+  "short_name": "nm_zig",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["nativeMessaging"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {},
+  "author": "guest271314",
+  "homepage_url": "https://github.com/guest271314/native-messaging-zig"
+}

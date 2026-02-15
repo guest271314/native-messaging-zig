@@ -3,7 +3,7 @@
 ### Compile
 
 ```bash
-zig build-exe nm_zig.zig -O ReleaseSafe
+zig build-exe nm_zig.zig -O ReleaseSmall
 ```
 
 ### Installation and usage on Chrome and Chromium
