@@ -1,3 +1,5 @@
+///usr/bin/env -S /home/user/bin/zig run "$0"
+// https://discord.com/channels/605571803288698900/719644313348341760/1472640833718059119
 // Zig Native Messaging host
 // guest271314, 2-14-2026
 // Source: Node.js Native Messaging host https://github.com/guest271314/native-messaging-nodejs/nm_nodejs.js
