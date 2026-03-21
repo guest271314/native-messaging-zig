@@ -2,8 +2,13 @@
 
 ### Compile
 
+#### Executable
 ```bash
 zig build-exe nm_zig.zig -O ReleaseSmall
+```
+#### wasm32-wasi
+```bash
+zig build-exe nm_zig.zig -target wasm32-wasi -O ReleaseSmall
 ```
 
 ### Installation and usage on Chrome and Chromium
