@@ -1,4 +1,4 @@
-#!/usr/bin/env -s /home/user/native-messaging-zig/nm_zig.zig 
+#!/usr/bin/env /home/user/native-messaging-zig/nm_zig.zig 
 #
 # #!/usr/bin/env bash
 # run Create executable and run immediately
